@@ -1,5 +1,5 @@
 numpy
-cython
+Cython
 
 # dev
 
